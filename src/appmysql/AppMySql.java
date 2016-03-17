@@ -46,6 +46,7 @@ public class AppMySql {
         }
 
         //new Registro().setVisible(true);
+        //Este es un mensaje para comprobar la funcionalidad de github
     }
 }
 
